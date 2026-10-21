@@ -1,7 +1,4 @@
-### Hi, I'm Joshua 👋
 
-I build Java libraries for desktop apps, documentation and metadata-driven software. All three are open source
-(Apache-2.0) and on Maven Central.
 
 | | Library | What it does |
 |---|---|---|
